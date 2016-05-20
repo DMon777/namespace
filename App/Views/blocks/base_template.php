@@ -1,0 +1,4 @@
+<?=$header;?>
+<?=$left_content;?>
+<?=$content;?>
+<?=$footer;?>
